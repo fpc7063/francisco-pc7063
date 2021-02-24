@@ -1,16 +1,21 @@
-### Hi there 👋
+* Linkedin: https://www.linkedin.com/in/francisco-pena-055591187/
+* Email: francisco.pc7063@gmail.com
+* Name: Francisco Pena
+* Occupation: Computer Science Student
 
-<!--
-**francisco-pc7063/francisco-pc7063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Interests:
+* NodeJS
+* Typescript
+* Python
+* PostgreSQL
+* C++
+* Linux
+* KVM
+* DevOps
+* IT Security
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Active Projects
+https://github.com/francisco-pc7063/shorturl \
+https://github.com/francisco-pc7063/linuxadmin \
+https://github.com/francisco-pc7063/basic-auth
