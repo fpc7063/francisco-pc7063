@@ -7,9 +7,11 @@
 * NodeJS
 * Typescript
 * Python
+* Apache
 * PostgreSQL
 * C++
-* Linux
+* GNU/Linux
+* Debian
 * KVM
 * DevOps
 * IT Security
