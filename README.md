@@ -3,21 +3,11 @@
 * Name: Francisco Pena
 * Occupation: Computer Science Student
 
-# Interests:
-* NodeJS
-* Typescript
-* Python
-* Apache
-* PostgreSQL
-* C++
-* GNU/Linux
-* Debian
-* KVM
-* DevOps
-* IT Security
+ <div>
+    <a href="https://gitlab.com/fpc7063">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisco-pc7063&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-pc7063&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 # Active Projects
-https://github.com/francisco-pc7063/shorturl \
-https://github.com/francisco-pc7063/linuxadmin \
-https://github.com/francisco-pc7063/basic-auth
